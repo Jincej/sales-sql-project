@@ -1,1 +1,3 @@
 'select * from sales;
+
+create table
